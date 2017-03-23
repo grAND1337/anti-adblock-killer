@@ -3848,6 +3848,9 @@ urlchecker.net###ads_notify
 urlchecker.org###adchecker
 urlchecker.org###adchecker_btn
 urlchecker.org###ads_notify
+kissanime.*##script:inject(kissanime-defuser.js)
+kissanime.*##.divCloseBut
+.*/ads/$important,subdocument,domain=kissanime.ru|kissanime.to|kissanime.com
 !
 ! ----- Internal Use ------------------------------------------------------------------------------------------------------------------- !
 !
